@@ -1,0 +1,5 @@
+plugins { id 'com.android.application' }
+
+android { namespace 'com.haymfilip.urbanstrike'; compileSdk 37
+    defaultConfig { applicationId 'com.haymfilip.urbanstrike'; minSdk 26; targetSdk 37; versionCode 1; versionName '0.1.0' }
+}
